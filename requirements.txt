@@ -1,0 +1,17 @@
+# requirements.txt
+torch
+torchvision
+flask
+flask-cors
+pillow
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+cloudinary
+opencv-python
+pytorch-grad-cam
+gunicorn
+pytorch-dotenv
+werkzeug
