@@ -11,7 +11,7 @@ seaborn
 tqdm
 cloudinary
 opencv-python
-pytorch-grad-cam
+grad-cam
 gunicorn
 pytorch-dotenv
 werkzeug
