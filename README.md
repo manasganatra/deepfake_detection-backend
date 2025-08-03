@@ -6,6 +6,6 @@ User's Device (Client)     Render Server (Your Backend)     Hugging Face
      |                            |<--------------------------|
      |                            | Loads model in RAM        |
      |                            | Processes image           |
-     | Gets results               | Sends prediction          |
+     | Gets results               | Sends prediction          | 
      |<---------------------------|                           |
      
